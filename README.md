@@ -1,6 +1,6 @@
 <!-- ====== TOP WAVE BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;animation=twinkling&amp;color=0:00E5FF,40:7F00FF,100:FF007F&amp;text=Muhammad%20Daffa%20Fisabilillah&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML&amp;descAlign=50&amp;descAlignY=62" width="100%" alt="Muhammad Daffa Fisabilillah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;animation=twinkling&amp;color=0:00E5FF,40:7F00FF,100:FF007F&amp;text=Muhammad%20Daffa%20Fisabilillah&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Backend%20Developer%20%7C%20Mobile%20Developer%20%7C%20Frontend%20Developer%20%7C%20Applied%20ML&amp;descAlign=50&amp;descAlignY=62" width="100%" alt="Muhammad Daffa Fisabilillah" />
 </div>
 
 <!-- ====== VISITOR COUNTER & HEADER ====== -->
