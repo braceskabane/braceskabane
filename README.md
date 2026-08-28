@@ -33,7 +33,7 @@
         <li>🧠 Applied ML: on-device inference, pose estimation, OCR-driven data pipelines, and real-time processing.</li>
         <li>🎓 ITS Computer Engineering graduate (GPA 3.53) · Bangkit Academy 2024 alumnus.</li>
         <li>✉️ Reach me: <a href="mailto:mydaffa2003@gmail.com">mydaffa2003@gmail.com</a></li>
-        <li>🔗 Portfolio: <a href="https://dav-portofolio.vercel.app">dav-portofolio.vercel.app</a></li>
+        <li>🔗 Portfolio: <a href="https://braceskabane.netlify.app">braceskabane.netlify.app</a></li>
       </ul>
     </td>
     <td width="48%" align="center" valign="top">
