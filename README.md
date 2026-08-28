@@ -46,7 +46,6 @@
 
 ## 🧰 Tech & Tools
 
-**Languages**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,12 +53,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Mobile & Frameworks**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
@@ -67,7 +64,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-**ML & Data**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -75,7 +71,6 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**UI, DevOps & Tools**
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -89,10 +84,10 @@
 
 ## 💼 Experience
 
-- **Backend Developer & Product Manager** @ Korea-ASEAN Digital Academy (KADA) Batch 4 *(Bootcamp, Jun 2026 – Aug 2026)* — led a 6-person cross-functional team to build **Artisan Inventory**, a full-stack F&B inventory system with **Node.js, Express & MongoDB**, atomic ACID transactions, and an AI chatbot for inventory queries. Ranked top 5 in class (95/100 post-assessment).
-- **Junior Frontend Developer** @ PT. Kreasi Online Indonesia *(Internship, Dec 2025 – Jun 2026)* — building production Nuxt.js apps, integrating REST APIs, and improving performance through state management and dynamic rendering.
-- **Mobile Android Developer** @ PT. Adinata Charming Emmanuel *(Freelance, Jul 2024 – Feb 2025)* — built **Ace Member**, a 4-role membership & promo app with 20+ REST API integrations using Kotlin & Clean Architecture (MVVM).
-- **Mobile Application Developer** @ Bangkit Academy 2024 *(Google, GoTo, Traveloka)* — Grade A (89.08/100), Capstone project **TerraVision** (91.6/100) using Kotlin, Jetpack Compose, Room, and on-device TensorFlow Lite.
+- **Backend Developer & Product Manager** @ Korea-ASEAN Digital Academy (KADA) Batch 4 _(Bootcamp, Jun 2026 – Aug 2026)_ — led a 6-person cross-functional team to build **Artisan Inventory**, a full-stack F&B inventory system with **Node.js, Express & MongoDB**, atomic ACID transactions, and an AI chatbot for inventory queries. Ranked top 5 in class (95/100 post-assessment).
+- **Junior Frontend Developer** @ PT. Kreasi Online Indonesia _(Internship, Dec 2025 – Jun 2026)_ — building production Nuxt.js apps, integrating REST APIs, and improving performance through state management and dynamic rendering.
+- **Mobile Android Developer** @ PT. Adinata Charming Emmanuel _(Freelance, Jul 2024 – Feb 2025)_ — built **Ace Member**, a 4-role membership & promo app with 20+ REST API integrations using Kotlin & Clean Architecture (MVVM).
+- **Mobile Application Developer** @ Bangkit Academy 2024 _(Google, GoTo, Traveloka)_ — Grade A (89.08/100), Capstone project **TerraVision** (91.6/100) using Kotlin, Jetpack Compose, Room, and on-device TensorFlow Lite.
 
 ---
 
@@ -149,6 +144,7 @@
 </p>
 
 ### 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/braceskabane/braceskabane/output/snake.svg" alt="snake animation" />
 </div>
@@ -156,6 +152,7 @@
 ---
 
 ## 🌐 Connect
+
 <p align="center">
   <a href="mailto:mydaffa2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/muhammaddaffafisabilillah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
