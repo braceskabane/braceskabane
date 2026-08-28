@@ -1,16 +1,14 @@
-<!-- ====== HERO BANNER ====== -->
+<!-- ====== TOP WAVE BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&animation=twinkling
-  &color=0:00E5FF,40:7F00FF,100:FF007F
-  &text=Muhammad%20Daffa'%20Fisabilillah
-  &fontSize=40&fontAlign=50&fontAlignY=34
-  &desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML
-  &descAlign=50&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&animation=twinkling&color=0:00E5FF,40:7F00FF,100:FF007F&text=Muhammad%20Daffa%20Fisabilillah&fontSize=40&fontAlign=50&fontAlignY=34&desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML&descAlign=50&descAlignY=62" width="100%" />
 </div>
 
-<a href="https://github.com/braceskabane">
-  <img align="right" src="https://komarev.com/ghpvc/?username=braceskabane&label=Visitors&color=7F00FF&style=flat" />
-</a>
+<!-- ====== VISITOR COUNTER & HEADER ====== -->
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=braceskabane">
+    <img src="https://komarev.com/ghpvc/?username=braceskabane&label=Profile%20Views&color=7F00FF&style=flat-square" />
+  </a>
+</p>
 
 <h3 align="center">
   <samp>Hi, I'm <b><a href="https://github.com/braceskabane">Daffa</a></b> 👋</samp>
@@ -39,12 +37,17 @@
     <td width="48%" align="center" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430" alt="Mario running" />
     </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="100%" alt="HiTechNavigation" />
+    </td>
   </tr>
 </table>
 
 ---
 
 ## 🧰 Tech & Tools
+
+**Programming Languages**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,16 +56,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+**Mobile Development**
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Frontend Development**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Machine Learning & Computer Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -71,13 +86,15 @@
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Cloud, Deployment & Services**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**Development Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -132,21 +149,23 @@
 
 ---
 
-## 📈 Stats & Activity
+## 📈 Activity & GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=braceskabane&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=braceskabane&layout=compact&theme=tokyonight&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=braceskabane&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="GitHub Summary" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=braceskabane&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=braceskabane&theme=tokyonight&hide_border=false" height="165"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=braceskabane&theme=tokyonight&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
+
+---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/braceskabane/braceskabane/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/braceskabane/braceskabane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
