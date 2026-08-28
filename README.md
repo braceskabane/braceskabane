@@ -1,6 +1,6 @@
 <!-- ====== TOP WAVE BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&animation=twinkling&color=0:00E5FF,40:7F00FF,100:FF007F&text=Muhammad%20Daffa%20Fisabilillah&fontSize=40&fontAlign=50&fontAlignY=34&desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML&descAlign=50&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;animation=twinkling&amp;color=0:00E5FF,40:7F00FF,100:FF007F&amp;text=Muhammad%20Daffa%20Fisabilillah&amp;fontSize=40&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML&amp;descAlign=50&amp;descAlignY=62" width="100%" alt="Muhammad Daffa Fisabilillah" />
 </div>
 
 <!-- ====== VISITOR COUNTER & HEADER ====== -->
@@ -36,8 +36,7 @@
     </td>
     <td width="48%" align="center" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430" alt="Mario running" />
-    </td>
-    <td width="48%" align="center" valign="middle">
+      <br><br>
       <img src="https://github.com/user-attachments/assets/8c2e984e-29ee-4bdd-a991-3e1b2e401f1b" width="100%" alt="HiTechNavigation" />
     </td>
   </tr>
