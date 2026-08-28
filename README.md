@@ -4,7 +4,7 @@
   &color=0:00E5FF,40:7F00FF,100:FF007F
   &text=Muhammad%20Daffa'%20Fisabilillah
   &fontSize=40&fontAlign=50&fontAlignY=34
-  &desc=Mobile%20%26%20Frontend%20Developer%20%7C%20Applied%20ML
+  &desc=Backend%20Developer%20%7C%20Product%20Manager%20%7C%20Mobile%20%26%20Frontend%20%7C%20Applied%20ML
   &descAlign=50&descAlignY=62" width="100%" />
 </div>
 
@@ -16,8 +16,8 @@
   <samp>Hi, I'm <b><a href="https://github.com/braceskabane">Daffa</a></b> 👋</samp>
 </h3>
 <p align="center">
-  <samp>Fresh Computer Engineering graduate building end-to-end Android apps and responsive web interfaces.</samp><br/>
-  <samp>Current stack: <b>Kotlin · Jetpack Compose · Nuxt.js · TypeScript · TensorFlow Lite</b></samp>
+  <samp>Computer Engineering graduate building backend systems, Android apps, and responsive web interfaces.</samp><br/>
+  <samp>Current stack: <b>Node.js · Express · MongoDB · Kotlin · Jetpack Compose · Nuxt.js · TypeScript</b></samp>
 </p>
 
 <!-- ====== INTRO ====== -->
@@ -26,9 +26,11 @@
     <td width="52%" valign="top">
       <h4>About</h4>
       <ul>
+        <li>🛠️ Backend developer architecting REST APIs with Node.js, Express, and MongoDB, including ACID-transaction-safe systems.</li>
+        <li>🧑‍💼 Led a 6-person cross-functional team as Backend Developer & Product Manager at KADA Batch 4 (Korea-ASEAN Digital Academy).</li>
         <li>📱 Mobile developer with hands-on experience shipping production Android apps (Kotlin, Jetpack, Clean Architecture / MVVM).</li>
         <li>🌐 Frontend developer building responsive web apps with Nuxt, TypeScript, and Tailwind CSS.</li>
-        <li>🧠 Applied ML: on-device inference, pose estimation, and real-time processing.</li>
+        <li>🧠 Applied ML: on-device inference, pose estimation, OCR-driven data pipelines, and real-time processing.</li>
         <li>🎓 ITS Computer Engineering graduate (GPA 3.53) · Bangkit Academy 2024 alumnus.</li>
         <li>✉️ Reach me: <a href="mailto:mydaffa2003@gmail.com">mydaffa2003@gmail.com</a></li>
         <li>🔗 Portfolio: <a href="https://dav-portofolio.vercel.app">dav-portofolio.vercel.app</a></li>
@@ -52,6 +54,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **Mobile & Frameworks**
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -66,6 +73,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **UI, DevOps & Tools**
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -75,12 +83,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-- **Junior Frontend Developer** @ PT. Kreasi Online Indonesia *(Internship, Dec 2025 – Present)* — building production Nuxt.js apps, integrating REST APIs, and improving performance through state management and dynamic rendering.
+- **Backend Developer & Product Manager** @ Korea-ASEAN Digital Academy (KADA) Batch 4 *(Bootcamp, Jun 2026 – Aug 2026)* — led a 6-person cross-functional team to build **Artisan Inventory**, a full-stack F&B inventory system with **Node.js, Express & MongoDB**, atomic ACID transactions, and an AI chatbot for inventory queries. Ranked top 5 in class (95/100 post-assessment).
+- **Junior Frontend Developer** @ PT. Kreasi Online Indonesia *(Internship, Dec 2025 – Jun 2026)* — building production Nuxt.js apps, integrating REST APIs, and improving performance through state management and dynamic rendering.
 - **Mobile Android Developer** @ PT. Adinata Charming Emmanuel *(Freelance, Jul 2024 – Feb 2025)* — built **Ace Member**, a 4-role membership & promo app with 20+ REST API integrations using Kotlin & Clean Architecture (MVVM).
 - **Mobile Application Developer** @ Bangkit Academy 2024 *(Google, GoTo, Traveloka)* — Grade A (89.08/100), Capstone project **TerraVision** (91.6/100) using Kotlin, Jetpack Compose, Room, and on-device TensorFlow Lite.
 
@@ -89,6 +99,20 @@
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td>
+      <b>Artisan Inventory — F&B Inventory Management (KADA Capstone)</b><br/>
+      Full-stack inventory, production planning & selling system — <i>Node.js · Express · MongoDB · ACID Transactions · AI Chatbot</i>.<br/>
+      Led a 6-person team as Backend Developer & PM. <a href="https://youtu.be/WdYSdMegYFM">▶ Watch demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>AI Running Analytics — OCR-Based Training Insights</b><br/>
+      Personal project turning wearable screenshots into training plans — <i>OCR · Gemini API · Google Calendar Sync</i>.<br/>
+      Solo-built alongside the KADA capstone. <a href="https://youtu.be/yHVqAgZbS3s">▶ Watch demo</a>
+    </td>
+  </tr>
   <tr>
     <td>
       <b>BAKI – Body Analyzer & Kinetic Instructor</b><br/>
@@ -100,7 +124,7 @@
     <td>
       <b>Digital Twin for Virtual Music Concert (UE5)</b><br/>
       Photorealistic MetaHuman avatar for virtual concerts — <i>Unreal Engine 5 · Move AI · Rokoko · Live Link Face</i>.<br/>
-      Synchronized motion & facial rendering at 1080p 30 FPS.
+      Undergraduate thesis project — synchronized motion & facial rendering.
     </td>
   </tr>
 </table>
